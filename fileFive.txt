@@ -1,1 +1,9 @@
 This is the new file to collaborate and merge 
+!! Adding some changes for validation
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
